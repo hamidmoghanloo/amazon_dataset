@@ -32,4 +32,4 @@ class TransferData:
 
     def save_dataset(self):
         self.preparation()
-        self._data.to_csv(f'datasets/amazon_book.csv')
+        self._data.to_csv(f'data/amazon_book.csv')
