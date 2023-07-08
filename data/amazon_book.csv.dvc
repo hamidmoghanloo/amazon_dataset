@@ -1,0 +1,5 @@
+outs:
+- md5: ea1bb27449043216004f796650e1ecc0
+  size: 29386
+  hash: md5
+  path: amazon_book.csv
